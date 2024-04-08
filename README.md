@@ -2,7 +2,7 @@
 
 ## Descrição
 
-"MeuProjetoWebJS" é um site interativo que usa HTML, CSS e JavaScript. Este projeto inspirado na página principal do Spotify serve como uma introdução ao desenvolvimento web.
+"MeuProjetoWebJS" é um site interativo que usa HTML, CSS e JavaScript. Este proje serve como uma introdução ao desenvolvimento web.
 
 ## Estrutura do Projeto
 
