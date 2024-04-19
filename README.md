@@ -1,8 +1,8 @@
-# MeuProjetoWebJS
+# Fokus
 
 ## Descrição
 
-"MeuProjetoWebJS" é um site interativo que usa HTML, CSS e JavaScript. Este proje serve como uma introdução ao desenvolvimento web.
+"Fokus" é um site interativo que usa HTML, CSS e JavaScript. Este proje serve como uma introdução ao desenvolvimento web.
 
 ## Estrutura do Projeto
 
@@ -16,9 +16,6 @@ O projeto tem a seguinte estrutura de diretórios:
 
 Para visualizar o projeto, você pode simplesmente abrir o arquivo `index.html` em qualquer navegador moderno (como Chrome, Firefox, Safari, Edge).
 
-## Contribuição
-
-Contribuições são sempre bem-vindas! Se você tiver alguma ideia para melhorar o site, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
 
 
 
